@@ -24,7 +24,7 @@ This project extracts book names and prices from the Books to Scrape website usi
 ```bash
 pip install requests beautifulsoup4 pandas
 python webscrapping.py
-```
+``
 
 ## Output
 
